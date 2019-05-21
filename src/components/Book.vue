@@ -66,7 +66,7 @@
       },
       updated(){
 
-
+ 
         this.fetchBook();
 
       },
